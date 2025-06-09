@@ -12,16 +12,18 @@ Instead of feeding raw pixels into a convolutional neural network (CNN), we **ex
 Both pipelines are trained from scratch on **EMNIST** splits with a five-layer multilayer perceptron (MLP).  
 The project accompanies the paper:
 
-> Meetra Nouri, “Edge-Aware Deep Neural Networks for Hand-Written Character Recognition via Explicit Sobel and Curvature–Orientation Encodings,” 2025.
+> Azam Nouri, “Edge-Aware Deep Neural Networks for Hand-Written Character Recognition via Explicit Sobel and Curvature–Orientation Encodings,” 2025.
 
 ---
 
 ## Repository layout
-├── Sobel_Gradient_pipeline.ipynb # full notebook for Sobel MLP
-├── Curvature_Orientation_pipeline.ipynb # full notebook for curvature MLP
-├── CNN_EMNIST.ipynb # (optional) CNN baseline, not used in paper
-├── requirements.txt
-└── LICENSE (Apache-2.0)
+handwriting-dnn-features/
+├── Sobel_Gradient_pipeline.ipynb          # notebook: Sobel-based MLP
+├── Curvature_Orientation_pipeline.ipynb   # notebook: curvature + orientation MLP
+├── CNN_EMNIST.ipynb                       # (optional) CNN baseline notebook
+├── requirements.txt                       # Python dependencies
+└── LICENSE                                # Apache-2.0 license
+
 
 
 *The CNN notebook is kept only as an optional reference; the paper’s experiments do **not** rely on CNN results.*
