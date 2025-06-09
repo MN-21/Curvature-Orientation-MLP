@@ -16,13 +16,14 @@ The project accompanies the paper:
 
 ---
 
-## Repository layout
+```text
 handwriting-dnn-features/
 ├── Sobel_Gradient_pipeline.ipynb          # notebook: Sobel-based MLP
 ├── Curvature_Orientation_pipeline.ipynb   # notebook: curvature + orientation MLP
 ├── CNN_EMNIST.ipynb                       # (optional) CNN baseline notebook
 ├── requirements.txt                       # Python dependencies
 └── LICENSE                                # Apache-2.0 license
+
 
 
 
