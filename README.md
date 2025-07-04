@@ -38,7 +38,7 @@ handwriting-dnn-features/
 |                    | Curvature    | [Curvature EMNIST](https://colab.research.google.com/github/MN-21/handwriting-dnn-features/blob/main/Curvature_Orientation_pipeline_EMNIST_Letters.ipynb) |
 |                    | CNN baseline | [CNN EMNIST](https://colab.research.google.com/github/MN-21/handwriting-dnn-features/blob/main/CNN_Baseline_EMNIST_Letters.ipynb) |
 
-Open a notebook, go to **Runtime → Run all**, grab a coffee. Each notebook:
+Open a notebook, go to **Runtime → Run all**. Each notebook:
 
 1. Downloads the dataset with `tensorflow-datasets`.
 2. Computes the requested feature stack.
@@ -48,8 +48,8 @@ Open a notebook, go to **Runtime → Run all**, grab a coffee. Each notebook:
 
 | Dataset            | Sobel MLP | Curvature MLP | CNN baseline |
 |--------------------|-----------|----------------|---------------|
-| **MNIST**          | ≈ 97 %    | **≈ 97.5 %**   | 99 %          |
-| **EMNIST letters** | ≈ 88 %    | **≈ 90 %**     | 91 %          |
+| **MNIST**          | ≈ 97 %    | **≈ 97 %**     | 99 %          |
+| **EMNIST letters** | ≈ 92 %    | **≈ 89 %**     | 94 %          |
 
 ---
 
