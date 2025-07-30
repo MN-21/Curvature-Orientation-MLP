@@ -72,7 +72,7 @@ Then open any notebook from the *What’s inside* section and run it.
 ```text
 @misc{nouri2025edgeaware,
   author       = {Azam Nouri},
-  title        = {Edge-Aware Deep Neural Networks for Hand-Written Character Recognition via Explicit Sobel and Curvature–Orientation Encodings},
+  title        = {Handwriting Recognition from Sobel and Curvature Cues: A Lightweight Multilayer-Perceptron Approach},
   year         = {2025},
   howpublished = {GitHub},
   url          = {https://github.com/MN-21/handwriting-dnn-features}
