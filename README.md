@@ -72,13 +72,23 @@ Then open any notebook from the *What’s inside* section and run it.
 ```text
 @misc{nouri2025edgeaware,
   author       = {Azam Nouri},
-  title        = {Handwriting Recognition from Sobel and Curvature Cues: A Lightweight Multilayer-Perceptron Approach},
+  title        = {Handwriting Recognition with Sobel Gradients: A Lightweight Multilayer-Perceptron Baseline},
   year         = {2025},
   howpublished = {GitHub},
   url          = {https://github.com/MN-21/handwriting-dnn-features}
 }
 ```
+## Citation
 
+```text
+@misc{nouri2025edgeaware,
+  author       = {Azam Nouri},
+  title        = {Handwriting Recognition with Planar Curvature and Gradient Orientation:A Convolution-Free MLP Baseline},
+  year         = {2025},
+  howpublished = {GitHub},
+  url          = {https://github.com/MN-21/handwriting-dnn-features}
+}
+```
 ---
 
 ## License
