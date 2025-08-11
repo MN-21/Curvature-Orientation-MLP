@@ -82,18 +82,16 @@ pip install --upgrade pip
 
 # Core dependencies
 pip install tensorflow tensorflow-datasets opencv-python tqdm scikit-learn numpy
----
-
-
-
-
-
-
-
 ```
-## Citation
+## License
+This repository is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-```text
+## Contact
+Azam Nouri — azamnouri2024@gmail.com
+
+## How to Cite (Sobel-Gradient MLP)
+If you use the **Sobel-Gradient MLP** repository, please cite:
+```bibtex
 @misc{nouri2025curvmlp,
   title        = {An MLP Baseline for Handwriting Recognition Using Planar Curvature and Gradient Orientation},
   author       = {Nouri, Azam},
@@ -101,13 +99,7 @@ pip install tensorflow tensorflow-datasets opencv-python tqdm scikit-learn numpy
   howpublished = {\url{https://github.com/MN-21/Curvature-Orientation-MLP}},
   note         = {Code repository}
 }
+
 ```
----
-
-
-
-Apache 2.0 — free for academic & commercial use. See [LICENSE](LICENSE).
-
----
 
 *Questions or ideas? Open an issue or ping me on GitHub.*
