@@ -82,44 +82,11 @@ pip install --upgrade pip
 
 # Core dependencies
 pip install tensorflow tensorflow-datasets opencv-python tqdm scikit-learn numpy
-
-
-
-## Quickstart
-1) Clone the repo  
-    git clone https://github.com/MN-21/Curvature-Orientation-MLP.git
-    cd Curvature-Orientation-MLP
-
-2) Open and run the notebooks in `notebooks/`  
-3) Final test accuracies should be close to the table above (single-run variance is normal).
-
 ---
 
-## Limitations
-- Not rotation/shift invariant; modest perturbations can reduce accuracy.  
-- No robustness or latency/energy measurements reported here.  
-- Evaluated only on MNIST and EMNIST Letters.
 
----
 
-## License
-**Apache-2.0** — see `LICENSE`.
 
----
-
-## Contact
-Azam Nouri — azamnouri2024@gmail.com
-
----
-
-## How to cite
-    @misc{nouri2025curvmlp,
-      title        = {An MLP Baseline for Handwriting Recognition Using Planar Curvature and Gradient Orientation},
-      author       = {Nouri, Azam},
-      year         = {2025},
-      howpublished = {\url{https://github.com/MN-21/Curvature-Orientation-MLP}},
-      note         = {Code repository}
-    }
 
 
 
