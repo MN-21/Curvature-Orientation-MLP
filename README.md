@@ -69,10 +69,9 @@ We test whether second-order stroke geometry — captured by planar curvature an
 ---
 
 ## Notebooks
-- `notebooks/Curvature_Orientation_pipeline_MNIST.ipynb`  
-- `notebooks/Curvature_Orientation_pipeline_EMNIST_Letters.ipynb`  
-*(Optional for context: `notebooks/CNN_Baseline_EMNIST_Letters.ipynb`)*
-
+[`https://github.com/MN-21/Curvature-Orientation-MLP/blob/main/Curvature_Orientation_pipeline_MNIST.ipynb)
+[`https://github.com/MN-21/Curvature-Orientation-MLP/blob/main/Curvature_Orientation_pipeline_EMNIST_Letters.ipynb)
+[`https://github.com/MN-21/Curvature-Orientation-MLP/blob/main/CNN_Baseline_EMNIST_Letters.ipynb)
 ---
 
 ## Environment & Installation
