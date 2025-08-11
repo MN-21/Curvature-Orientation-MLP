@@ -107,35 +107,15 @@ Evaluated only on MNIST and EMNIST Letters.
 ## License
 Apache-2.0 — see LICENSE.
 
-Contact
+## Citation
 Azam Nouri — azamnouri2024@gmail.com
 
-## How to cite
-bibtex
-Copy
-Edit
-@misc{nouri2025curvmlp,
-  title        = {An MLP Baseline for Handwriting Recognition Using Planar Curvature and Gradient Orientation},
-  author       = {Nouri, Azam},
-  year         = {2025},
-  howpublished = {\url{https://github.com/MN-21/Curvature-Orientation-MLP}},
-  note         = {Code repository}
-}
-javascript
-Copy
-Edit
-
-If you want, I can also produce a minimal `requirements.txt` from the dependency list so reviewers can `pip install -r requirements.txt` and run immediately.
+uirements.txt` from the dependency list so reviewers can `pip install -r requirements.txt` and run immediately.
 ::contentReference[oaicite:0]{index=0}
 
 
 
 
-
-
-Sources
-
-Ask ChatGPT
 
 
 
@@ -155,12 +135,12 @@ Ask ChatGPT
 ## Citation
 
 ```text
-@misc{nouri2025edgeaware,
-  author       = {Azam Nouri},
-  title        = {Handwriting Recognition with Planar Curvature and Gradient Orientation:A Convolution-Free MLP Baseline},
+@misc{nouri2025curvmlp,
+  title        = {An MLP Baseline for Handwriting Recognition Using Planar Curvature and Gradient Orientation},
+  author       = {Nouri, Azam},
   year         = {2025},
-  howpublished = {GitHub},
-  url          = {https://github.com/MN-21/handwriting-dnn-features}
+  howpublished = {\url{https://github.com/MN-21/Curvature-Orientation-MLP}},
+  note         = {Code repository}
 }
 ```
 ---
