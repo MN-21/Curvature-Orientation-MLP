@@ -6,7 +6,7 @@
 ---
 
 ## Abstract
-We test whether second-order stroke geometry — captured by planar curvature and gradient orientation — can support handwritten character recognition without any convolutions. A compact MLP consumes three channels per image: curvature magnitude, curvature sign, and gradient orientation (normalized). With a stratified 80/20 train/test split (from TFDS train+test) and no data augmentation, the model reaches strong accuracy on MNIST and EMNIST Letters.
+We test whether second-order stroke geometry — captured by planar curvature and gradient orientation — can support handwritten character recognition. A compact MLP consumes three channels per image: curvature magnitude, curvature sign, and gradient orientation (normalized). With a stratified 80/20 train/test split (from TFDS train+test) and no data augmentation, the model reaches strong accuracy on MNIST and EMNIST Letters.
 
 ---
 
