@@ -96,8 +96,9 @@ If you use the **Sobel-Gradient MLP** repository, please cite:
   title        = {An MLP Baseline for Handwriting Recognition Using Planar Curvature and Gradient Orientation},
   author       = {Nouri, Azam},
   year         = {2025},
-  howpublished = {\url{https://github.com/MN-21/Curvature-Orientation-MLP}},
-  note         = {Code repository}
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16934393},
+  url          = {https://doi.org/10.5281/zenodo.16934393}
 }
 
 ```
